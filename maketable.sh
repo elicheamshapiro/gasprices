@@ -1,3 +1,5 @@
+echo hell user, will make a contigency table now.
+
 cd ~/gasprices #make sure we are in the right place
 cut -d ";"nano maketable.sh  # open nano
 # type this:
